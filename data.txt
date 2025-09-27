@@ -1,0 +1,27 @@
+// product data
+
+{
+    "name":"Tennis Ball",
+    "description":"This ball is very strong and it can use in cricket tournaments.",
+    "price":120,
+    "category":"sports"
+}
+
+
+
+
+// users data
+
+{
+    "firstname":"Jogi",
+    "lastname":"Akhila",
+    "username":"JogiAkhila1432",
+    "email":"jogiakhila@gmail.com",
+    "password":"JogiAkhila@1432"
+}
+// admin data
+
+{
+    "username":"kohli_1234",
+    "password":"kohli@1234"
+}
